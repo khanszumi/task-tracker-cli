@@ -1,0 +1,6 @@
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Runtime data: the user's tasks, created by the app
+file.json
